@@ -2,8 +2,8 @@
 def minimun(a):
     min = a[0]
     for num in a:
-        if num<min:
-            min=num
+        if num<min:4
+        min=num
     return min
 
 a=list(map(int,input("enter values:").split()))
