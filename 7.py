@@ -13,3 +13,4 @@ def palindrome(a):
 a = int(input("Enter value: "))
 temp = palindrome(a)
 print(temp)
+
