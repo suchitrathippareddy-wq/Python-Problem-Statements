@@ -11,7 +11,6 @@ temp=minimun(a)
 print(temp)
 
 
-
 #program to read n integer values into alist and find the max and min elements without using a buit-in max() or min() function
 def max_min(a):
     max=min=a[0]
